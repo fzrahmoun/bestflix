@@ -1,5 +1,4 @@
 import MovieList from "./MovieList";
-// import MovieCard from "MovieCard";
 import MovieDetails from "./MovieDetails";
 import "./App.css"
 
@@ -9,7 +8,6 @@ function App() {
   return (
     <div className="App container">
       <h1 style={{color:'#e50914'}}>Bestflix</h1>
-      {/* <MovieList/> */}
       <nav>
         <ul> 
           <li><Link to="/">Home</Link>  </li>

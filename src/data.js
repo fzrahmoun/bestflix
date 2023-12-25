@@ -29,4 +29,4 @@ const movieData =[
       trailer:"HhesaQXLuRY"
     },
    ]
-   export default movieData
+export default movieData

@@ -1,7 +1,6 @@
 import React from 'react'
-import {Routes, Route, Link } from "react-router-dom";
-import MovieDetails from './MovieDetails';
-import MovieList from "./MovieList";
+import {Link } from "react-router-dom";
+
 
 //Movie card component 
 
