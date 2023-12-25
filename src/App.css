@@ -1,0 +1,23 @@
+.detailsTrailer{
+  text-align: center;
+}
+ul{
+  list-style-type: none ;
+  padding-left: 0px;
+}
+.titleMovieDetails{
+  margin-bottom: 20px;
+}
+.descriptionMovieDetails{
+  margin-top: 20px;
+
+}
+.blocMovie{
+  border: 1px solid #1c1919;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px 0px;
+  background-color: #1c1919;
+  color: white;
+  height: 220px;
+}
