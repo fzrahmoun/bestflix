@@ -13,7 +13,7 @@ function MovieDetails() {
 
 
   if (!selectedMovie) {
-    return <div>Error: details not found</div>;
+    return <div className='colorWhite'>Details not found</div>;
   }
 
   return (
